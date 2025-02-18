@@ -1,1 +1,1 @@
-.\SystemInfo.ps1# CALL
+.\SystemInfo.ps1
